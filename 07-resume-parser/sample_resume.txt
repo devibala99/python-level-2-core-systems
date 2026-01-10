@@ -1,0 +1,9 @@
+Devibala 
+Email: devibala@gmail.com
+Mobile: 9876543210
+
+Education:
+B.E Electronics and Communication Engineering
+
+Skills:
+Python, SQL, Data Analysis, Machine Learning
